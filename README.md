@@ -8,8 +8,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Demo to show app
 
-https://mugan86.github.io/start-bootstrap-clean-blog-angular/
+https://carlosbayarri.github.io/docs-angular/
 
 ## Project documentation about project code
 
-https://mugan86.github.io/start-bootstrap-clean-blog-angular/documentation/
+https://carlosbayarri.github.io/docs-angular/documentation/
